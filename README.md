@@ -1,6 +1,6 @@
 ## Introduction
 
-This homework consist of creating a distributed program for parallel processing of the publically available DBLP dataset that contains entries for various publications at many different venues (e.g., conferences and journals). The hadoop framework has been extensively used as part of this homework.
+This project consist of creating a distributed program for parallel processing of the publically available DBLP dataset that contains entries for various publications at many different venues (e.g., conferences and journals). The hadoop framework has been extensively used as part of this homework.
 
 ## Requirements
 
