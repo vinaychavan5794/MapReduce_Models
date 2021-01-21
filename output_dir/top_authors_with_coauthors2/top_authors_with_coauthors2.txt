@@ -1,0 +1,100 @@
+Wei Li,1211
+Wei Zhang,1184
+Wei Wang,1176
+Lei Wang,1075
+Lei Zhang,1074
+Yang Liu,1074
+Yu Zhang,1052
+Xin Wang,987
+Wen Gao 0001,972
+Hai Jin 0001,968
+Jing Wang,928
+Li Zhang,909
+H. Vincent Poor,896
+Yang Li,890
+Jun Wang,882
+Wei Chen,879
+Yan Zhang,864
+Jing Zhang,841
+Philip S. Yu,838
+Xin Li,836
+Yan Li,833
+Jing Li,828
+Yi Zhang,824
+Jian Wang,822
+Wei Liu,809
+Hui Li,794
+Licheng Jiao,791
+Yang Yang,784
+Lajos Hanzo,779
+Ying Wang,779
+Zhu Han,774
+Yan Wang,767
+Li Li,766
+Nassir Navab,763
+Victor C. M. Leung,761
+Jun Zhang,756
+Xi Chen,743
+Yong Wang,743
+Dacheng Tao,740
+Jie Li,735
+Ying Li,718
+Hao Wang,713
+Jiawei Han 0001,711
+Peng Wang,707
+Luca Benini,697
+Li Wang,686
+Dinggang Shen,683
+Jun Li,674
+Chao Wang,672
+Thomas S. Huang,669
+Bin Li,667
+Mohsen Guizani,663
+Ying Zhang,661
+Yi Wang,659
+Jie Zhang,658
+Yong Zhang,655
+Tao Wang,652
+Tao Zhang,647
+Hui Zhang,642
+Jing Liu,642
+Hui Wang,641
+Nadeem Javaid,640
+Mohamed-Slim Alouini,637
+Yu Wang,634
+Xin Zhang,633
+Yang Zhang,630
+Chin-Chen Chang 0001,629
+Bo Li,627
+Luc Van Gool,617
+Witold Pedrycz,616
+Fan Yang,615
+Hao Zhang,611
+Xin Liu,609
+Wei Wu,605
+Ming Li,604
+Rui Zhang,603
+Leonard Barolli,601
+Qi Wang,601
+Yang Wang,601
+Elisa Bertino,596
+Shuicheng Yan,595
+Joel J. P. C. Rodrigues,593
+Feng Wang,587
+Yu Liu,585
+Jiannong Cao 0001,577
+Xin Chen,573
+Athanasios V. Vasilakos,568
+Tao Li,567
+Toshio Fukuda,566
+Li Chen,563
+Xuelong Li,555
+Chao Zhang,553
+Mario Gerla,553
+Wei Xu,553
+Kim-Kwang Raymond Choo,552
+Fan Zhang,547
+Qian Wang,544
+Xuemin Shen,542
+Rui Wang,535
+Xiang Li,535

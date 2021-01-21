@@ -1,0 +1,1939 @@
+A. E. Eiben,11
+A. J. Bernheim Brush,13
+A. Martin Wildberger,15
+A. P. Sakis Meliopoulos,23
+A. Robert Calderbank,17
+A. Stephen Morse,14
+Aamer Chughtai,12
+Aarnout Brombacher,13
+Aaron Carass,11
+Aaron D. Ames,17
+Aarti Singh,10
+Abdelali El Aroudi,15
+Abdelkader Abdessameud,10
+Abel Torres,10
+Abhishek Jain 0002,11
+Abuzer Yakaryilmaz,10
+Adam Domanski,11
+Adam Marchewka,10
+Adelio Salsano,10
+Admir Barolli,41
+Adrian Popescu 0001,10
+Aggelos K. Katsaggelos,26
+Agustin Riscos-Núñez,13
+Ahmed E. Hassan,14
+Airlie Chapman,10
+Akihiro Fujihara,12
+Akira Iwasaki,10
+Akira Matsuzawa,14
+Alan F. Smeaton,10
+Alan Said,11
+Albert Y. Zomaya,27
+Alberto Bartoli,10
+Alberto Bemporad,14
+Alberto H. F. Laender,15
+Alberto Leporati,15
+Alberto P. Avolio,10
+Alberto Porta,10
+Alec Jacobson,11
+Alejandro Ribeiro,26
+Aleksandra Mojsilovic,10
+Ales Horák,13
+Ales Janota,10
+Ales Ude,16
+Alessandra Flammini,23
+Alessandro Astolfi,14
+Alessandro Borri,10
+Alessandro Chiesa,10
+Alessandro Chiuso,14
+Alessandro Costantini,10
+Alessandro Ferrero,23
+Alessandro Longheu,13
+Alex Bateman,22
+Alex Biryukov,18
+Alex Wright,11
+Alex X. Liu,10
+Alexander A. Sherstov,15
+Alexander Barg,17
+Alexander F. Gelbukh,10
+Alexander Felfernig,10
+Alexander Meschtscherjakov,12
+Alexander Raake,10
+Alexander Rakhlin,15
+Alexander Richter,12
+Alexander Vardy,17
+Alexandre Allauzen,10
+Alexandros Karatzoglou,11
+Alexey Melnikov,16
+Alfred W. Hübler,14
+Alfredo Cuzzocrea,31
+Alfredo Germani,14
+Ali Jadbabaie,26
+Ali Saberi,27
+Ali Uneri,11
+Alica Kalasová,10
+Alois C. Knoll,11
+Alois Potton,24
+Alois Zoitl,15
+Amir G. Aghdam,13
+Amir K. Khandani,13
+Amir Yehudayoff,15
+Amonida Zadissa,10
+Amos Lapidoth,17
+An Liu 0001,10
+Anand Jeyaraj,10
+Anantha P. Chandrakasan,13
+Anchi Guo,12
+Andrea Cristofaro,12
+Andrea Gasparri,11
+Andrea Tagliasacchi,12
+Andrea Taroni,13
+Andreas Bender,11
+Andreas Eckhardt,12
+Andreas F. Molisch,20
+Andreas Klemmt,10
+Andreas Kähäri,11
+Andreas Riel,11
+Andreas Riener,12
+Andreas Uhl,24
+Andreas Voss,10
+Andrew Adamatzky,15
+Andrew Begel,12
+Andrew K. Skidmore,14
+Andrew L. Kun,12
+Andrew Petersen,10
+Andrew R. Teel,14
+Andrey M. Turlikov,10
+Andrzej Kossakowski,11
+Andrzej Kwiecien,10
+André Kaup,16
+Angel Roman,11
+Angelia Nedic,13
+Angelo Gargantini,12
+Angelos Antonopoulos 0001,10
+Anindya Ghose,17
+Ann L. Fruhling,15
+Ann S. Zweig,14
+Anna O. Ivanova,11
+Anne Canteaut,12
+Anne Parker,14
+Anne-Laure Jousselme,14
+Antal K. Bejczy,11
+Anthony Randal McIntosh,10
+Antonella Ferrara,25
+Antonello Monti,10
+Antonio Cataliotti,10
+Antonio Criminisi,10
+Antonio E. Porreca,10
+Antonio Espuña Camarasa,12
+Antonio Laganà,16
+Antonio Moschitta,18
+Antonio Mucherino,11
+Antonio Ortega,26
+Antonio Pescapè,15
+Antonio Plaza,10
+Antonio Tornambè,12
+Arianna D'Ulizia,10
+Ariel Felner,11
+Armin Heinzl,11
+Arnab Bhattacharyya 0001,12
+Arnaldo Cecchini,11
+Arndt Bode,21
+Arpita Patra,13
+Arthur Tatnall,11
+Artiom Alhazov,16
+Artur Kornilowicz,11
+Artur Wymyslowski,11
+Arturo Buscarino,12
+Arumugam Nallanathan,34
+Asok Ray,10
+Athanasios V. Vasilakos,11
+Atilla Elçi,14
+Audrey Desjardins,10
+Autilia Vitiello,11
+Avishay Tal,11
+Axel Legay,11
+Ayfer Özgür,14
+Aylin Yener,14
+Ayman El-Baz,15
+Azzedine Boukerche,14
+B. Sundar Rajan,30
+Ba-Tuong Vo,14
+Babak Hassibi,17
+Balasubramanian Raman,12
+Barbara Hammer,22
+Barry Haddow,11
+Barry O'Sullivan,12
+Bart Mennink,11
+Bastian Pfleging,11
+Beatriz F. Giraldo,10
+Bedrich Benes,13
+Begüm Demir,13
+Behrooz Makki,11
+Behçet Açikmese,11
+Bei Xu,11
+Belur V. Dasarathy,15
+Ben Carterette,11
+Ben Glocker,14
+Ben Niu 0002,14
+Benedikt Buchner,13
+Benjamin Doerr,14
+Benjamin Noack,13
+Bennett A. Landman,11
+Benno Stein 0001,10
+Benny Applebaum,12
+Benoit Aubert,10
+Berend Denkena,13
+Bernd-Arno Behrens,12
+Berndt Farwer,10
+Bernhard Haeupler,11
+Bernhard Rinner,12
+Bernhard Rumpe,19
+Bert Overduin,11
+Bertram Poettering,11
+Bianca Truthe,11
+Bijan Davvaz,26
+Bin Deng,10
+Bin Ning,10
+Bin Zheng 0001,13
+Bin Zhou 0001,13
+Birte Glimm,16
+Björn E. Ottersten,20
+Björn Hartmann,12
+Björn W. Schuller,15
+Blaise Cronin,10
+Bo Ai,11
+Bo Li 0035,10
+Bo-Hui Tang,13
+Bob Herschberg,14
+Bob O'Malley,13
+Bodo Rosenhahn,14
+Bogdan Ionescu,10
+Boleslaw K. Szymanski,11
+Boudewijn F. van Dongen,15
+Bram Adams,10
+Bram Nauta,14
+Brent Waters,17
+Brian D. O. Anderson,14
+Brian F. Hutton,10
+Brian J. Raney,14
+Brian P. Salmon,10
+Brigida C. Ferreira,10
+Britta Alexandra Mester,11
+Bronwen L. Aken,13
+Bruce Christianson,22
+Bruce Fischl,15
+Bruce Trask,11
+Bruno Ando,15
+Bruno Clerckx,10
+Béatrice Pesquet-Popescu,11
+C. Lee Giles,15
+C. Pandu Rangan,13
+Caijun Zhong,12
+Cailian Chen,10
+Calin Belta,11
+Calvin R. Maurer Jr.,11
+Carlo Muscas,10
+Carlos A. Coello Coello,37
+Carlos Silvestre,14
+Carmelo Maria Torre,13
+Carmit Hazay,13
+Carol J. Bult,21
+Carol Peters,11
+Carolyn R. Watters,18
+Carsten Griwodz,11
+Carsten Montzka,10
+Cecilia Zanni-Merk,11
+Cengiz Kahraman,18
+Cesar Sanín,15
+Chanchal K. Roy,12
+Chandan Saha 0001,13
+Changho Suh,10
+Changsheng Xu,10
+Changxi Zheng,12
+Chao Tian,16
+Charalambos D. Charalambous,14
+Charalampos Papamanthou,13
+Charles A. Bouman,17
+Charles Day,14
+Charu C. Aggarwal,16
+Cheng Li 0005,15
+ChengXiang Zhai,21
+Cherie Noteboom,10
+Chi Kong Tse,12
+Chi Zhang,11
+Chi-Chun Lee,12
+Chi-Wang Shu,15
+Chia-Chung Sun,11
+Chigusa Kita,12
+Chin-Chen Chang 0001,19
+Chin-Hui Lee,30
+Chin-Liang Wang,11
+Chin-Teng Lin,10
+Chintha Tellambura,16
+Chirag Shah,13
+Chitra Dorai,10
+Chokri Ben Amar,10
+Chongzhao Han,13
+Chris Christensen,14
+Chris D. Nugent,10
+Chris Harrison 0001,13
+Christian Federmann,13
+Christian Holz 0001,11
+Christian Leistner,10
+Christian Meilicke,14
+Christian Micheloni,11
+Christian Ott,18
+Christian Wagner 0002,14
+Christof Monz,14
+Christoforos N. Hadjicostis,14
+Christoph Hellings,10
+Christoph Stiller,10
+Christophe Prieur 0001,14
+Christos G. Cassandras,14
+Christos V. Verikoukis,14
+Chuan Zhou 0002,13
+Chun Yu,11
+Chunhua Shen,12
+Chunhui Piao,13
+Chunsheng Li,13
+Ciriaco Andrea D'Angelo,23
+Claude Carlet,17
+Claude Samson,14
+Claudia Kuenzer,10
+Claudia Szabo,11
+Claudia d'Amato,11
+Claudio M. Rocco Sanseverino,16
+Claudio Moraga,30
+Claudio Orlandi,13
+Claudio Zandron,16
+Claus Atzenbeck,13
+Constantinos Daskalakis,10
+Corina Forascu,10
+Cosmin Munteanu,10
+Craig Costello,11
+Craig Knox,13
+Craig Macdonald,15
+Craig S. Greenberg,11
+Cristian R. Rojas,10
+Cristian Rossi,10
+Cuntai Guan,10
+Curt Mohr,14
+Cássia Trojahn dos Santos,12
+D. Yves von Cramon,12
+Dacheng Tao,24
+Daesik Hong,15
+Daisuke Saito,12
+Daisuke Sakamoto,10
+Daisuke Suzuki,11
+Dajiang Zhou,10
+Dalia Kriksciuniene,11
+Damian Keefe,10
+Damien Stehlé,12
+Dan Feng 0001,24
+Dan Keun Sung,14
+Dan Klein,20
+Dan Ventura,10
+Dana Dachman-Soled,10
+Dana McKay,10
+Danail Stoyanov,17
+Dangxiao Wang,10
+Danica Kragic,22
+Daniel Arbet,10
+Daniel G. Aliaga,12
+Daniel J. Bernstein,14
+Daniel J. Costello Jr.,17
+Daniel Liberzon,14
+Daniel R. Tauritz,14
+Daniel Rueckert,23
+Daniel Thalmann,31
+Daniel Ullrich,11
+Daniel Wichs,14
+Daniel Zingaro,11
+Daniel de Oliveira 0001,10
+Daniele Carnevale,11
+Daniele Panozzo,11
+Danijela Cabric,10
+Danilo Beuche,14
+Daoqiang Zhang,10
+Dario Fiore,12
+Dariusz Rzonca,10
+David A. Grossman,11
+David Angeli,13
+David B. Grayden,10
+David Bainbridge 0001,20
+David C. Munson Jr.,10
+David Chaum,12
+David G. M. Mitchell,13
+David Ginat,21
+David Gomez-Barquero,12
+David Hawking,12
+David J. Yates,11
+David L. Wheeler,10
+David Leake,10
+David N. Blank-Edelman,14
+David P. Woodruff,12
+David S. Ebert,11
+David S. Kirk,15
+David S. Wishart,16
+David T. Blaauw,13
+David Z. Pan,28
+Dawu Gu,12
+Dazhi Huang,11
+Dean F. Kelley,15
+Degang Chen,17
+Dennis Hofheinz,18
+Dennis Sylvester,42
+Denzil Ferreira,10
+Depeng Jin,10
+Deqiang Han,13
+Deqing Sun,10
+Derek Bradley,13
+Derek L. G. Hill,11
+Derrick Wing Kwan Ng,20
+Despina Kontos,13
+Devi Parikh,14
+Devis Bianchini,16
+Devis Tuia,12
+Dhabaleswar K. Panda,18
+Dhruv Batra,12
+Diane Kelly 0001,10
+Didier El Baz,11
+Didier Le Ruyet,10
+Dieter Rautenbach,33
+Dieter Schmalstieg,10
+Dieter an Mey,10
+Dimitrios I. Fotiadis,14
+Dimitris S. Papailiopoulos,11
+Dimo Brockhoff,13
+Dimos V. Dimarogonas,14
+Dina Katabi,10
+Diolino J. Santos Filho,10
+Dirk Fahland,12
+Divesh Srivastava,13
+Dominique Winter,10
+Domonkos Tikk,11
+Don Towsley,10
+Dong In Kim,18
+Dong Xu 0001,16
+Dong Yue,12
+Dong-Ho Cho,22
+Dongbin Zhao,14
+Dongning Guo,14
+Donna Karolchik,16
+Doug A. Bowman,12
+Douglas J. Leith,11
+Douglas L. Packer,10
+Dragan Nesic,14
+Dragan Simic,12
+Drew A. Torigian,11
+Dun Liu,10
+Duoqian Miao,12
+Dusit Niyato,42
+Edoardo Bonizzoni,16
+Eduard Alarcón,20
+Eduardo Monari,10
+Edwin Sequeira,10
+Eiichi Yoshida,14
+Eike Kiltz,17
+Ekram Hossain,16
+Elad Hazan,15
+Eli Blevis,11
+Eli Shechtman,12
+Elizabeth Zwicky,10
+Ella A. Kazerooni,12
+Eloy García,10
+Elza Erkip,15
+Emanuele Borgonovo,10
+Emeric Deutsch,10
+Emil Björnson,20
+Emilio Corchado,10
+Emilio Ferrara,31
+Emmanuel Pietriga,14
+Emmanuel Prouff,13
+Enlu Zhou,11
+Enrico Motta,18
+Enrico Zanoni,18
+Enrico Zio,21
+Enrique Herrera-Viedma,13
+Enzo Pasquale Scilingo,10
+Eoghan Casey,16
+Eric A. M. Klumperink,14
+Eric K. Clemons,26
+Eric Medvet,10
+Eric Rogers,12
+Eric W. Sayers,11
+Erik Blasch,15
+Erik De Schutter,17
+Erik G. Larsson,10
+Erik I. Verriest,14
+Erkan Yüce,13
+Ernesto Estrada,13
+Ernesto Jiménez-Ruiz,10
+Ertem Tuncel,17
+Etienne E. Kerre,17
+Eugene Syriani,11
+Evangelos Kanoulas,11
+Ewan Birney,22
+F. Richard Yu,25
+Fabian Kuhn,18
+Fabio Babiloni,10
+Fabio Baselice,10
+Fabio Persia,12
+Fabio Q. B. da Silva,10
+Fabio Valente,11
+Fabrizio Lombardi,27
+Fabrizio Lombardini,14
+Fabrizio Maria Maggi,11
+Fabrício Junqueira,10
+Fahim Kawsar,13
+Faisal I. Khan,11
+Fang Yang,10
+Fang-Yie Leu,10
+Fangyan Dong,12
+Fanny Chevalier,12
+Fatos Xhafa,10
+Fazhi He,15
+Fei Liu 0001,11
+Feifei Gao,14
+Felix Govaers,10
+Feng Ling,10
+Feng Qian 0001,10
+Feng Shi 0001,11
+Feng-Cheng Chang,10
+Ferdinanda Ponci,10
+Ferdinando Nunziata,13
+Fernando Ferri,11
+Fernando Herrera,13
+Filippo Cacace,11
+Fillia Makedon,13
+Fiona Cunningham,17
+Florentino Fdez-Riverola,10
+Florian Alt,11
+Florian Eyben,10
+Fotis N. Koumboulis,10
+France Mihelic,18
+Francesca Bovolo,15
+Francesco Iannuzzo,18
+Francesco Scorza,11
+Francis R. Bach,38
+Francisco Chicano,13
+Francisco Herrera,22
+Franco Blanchini,14
+Frank Allgöwer,41
+Frank Leymann,13
+Frank Maurer,21
+Frank Vollertsen,10
+Frans Vos,11
+François X. Sillion,13
+François Yvon,11
+François-Xavier Standaert,15
+Fred A. Kruse,13
+Frederic T. Stahl,11
+Fredric C. Gey,11
+Fredrik Gustafsson,15
+Fritz Klocke,12
+Froilán M. Dopico,17
+Frédéric Gibou,15
+Frédéric Mazenc,27
+Frédérick Bénaben,10
+Fumin Zhang 0001,13
+Fumiyuki Adachi,13
+Gabor Fichtinger,21
+Gabriel Altmann,19
+Gabriel Ciobanu,15
+Gabriel Peyré,11
+Gabriele Bavota,10
+Gaetano Valenza,10
+Galt P. Barber,14
+Gang Pan 0001,10
+Gang Tao,12
+Gareth J. F. Jones,20
+Gary Anthes,12
+Gary B. Lamont,10
+Gary B. Wills,10
+Gary Scott Malkin,10
+Gary Singh,20
+Gaudenzio Meneghesso,18
+Gauss M. Cordeiro,10
+Geert Leus,20
+Geoffrey D. Sullivan,10
+Georg Bretthauer,13
+Georg Essl,17
+Georg Frey,10
+Georg Fuchsbauer,13
+Georg Langs,14
+Georg Ohmayer,10
+George Bebis,12
+George D. C. Cavalcanti,15
+George E. Karniadakis,14
+George F. Hurlburt,10
+George J. Cokkinides,22
+George J. Papaioannou,15
+George J. Pappas,14
+George K. Karagiannidis,35
+George Lawton,16
+George V. Neville-Neil,31
+Georgios B. Giannakis,11
+Gerald Bieber,13
+Gerald L. Alexanderson,16
+Gerd Ascheid,13
+Gerhard Kramer,17
+Gerhard Tröster,15
+Gerhard Widmer,17
+Giampaolo Ferraioli,13
+Giancarlo Fortino,11
+Gianluca Borghini,10
+Gianluca Palli,11
+Gianluca Setti,21
+Gianluigi Pillonetto,27
+Gianmaria Silvello,13
+Gil Cohen,11
+Gil Segev 0001,15
+Gilbert Held,17
+Gilles Bailly,15
+Giorgio Battistelli,14
+Giovanna Mura,17
+Giovanni Abramo,23
+Giovanni Breglio,13
+Giovanni De Micheli,25
+Giovanni Iacca,10
+Giovanni Laneve,16
+Giovanni Morana,13
+Giuliana Dettori,13
+Giulietta Spudich,10
+Giulio Jacucci,14
+Giuseppe Caire,44
+Giuseppe Currò,10
+Giuseppe Durisi,16
+Giuseppe Liotta,26
+Giuseppe Mangioni,13
+Giuseppe Riva,22
+Go Hasegawa,13
+Go Tanaka,10
+Gonzalo Guillén-Gosálbez,10
+Graham D. Finlayson,20
+Graham Neubig,10
+Greg Goth,21
+Gregory B. Newby,14
+Gregory D. Schuler,14
+Gregory Levitin,21
+Gregory W. Wornell,17
+Gregory Zacharewicz,11
+Guang-Zhong Yang,25
+Guanglin Li,10
+Guangming Shi,11
+Guanrong Chen,38
+Guihai Chen,12
+Guilherme Horta Travassos,12
+Gunter Dueck,18
+Guodong Shi,11
+Guoliang Li 0001,12
+Guoqiang Mao,14
+Guoyin Wang 0001,14
+Guy Coates,12
+Guy Cochrane,16
+Gwendolyn L. Kolfschoten,11
+Gyung-Leen Park,12
+Géry Casiez,13
+H. Frank Cervone,15
+H. Vincent Poor,98
+Hai Jin 0001,15
+Hai Zhuge,15
+Haibo He,28
+Haim H. Permuter,15
+Haiying Shen,13
+Haiying Wang 0001,10
+Haizhou Li 0001,31
+Hamid K. Aghajan,20
+Hamideh Afsarmanesh,18
+Hamido Fujita,15
+Han-Wei Shen,13
+Hannes Tschofenig,16
+Hao Li 0015,12
+Hao Shen,10
+Hao Zhang 0002,15
+Harold Joseph Highland,16
+Harri Oinas-Kukkonen,14
+Hartmut Asche,13
+Hartmut Koenitz,11
+Heang-Ping Chan,13
+Heather A. Smith,12
+Heidi Johansen-Berg,11
+Heikki Topi,10
+Helen D. Karatza,12
+Helge B. D. Sørensen,10
+Helger Lipmaa,21
+Helmar Bergmann,14
+Helmut Bölcskei,15
+Heng Huang,21
+Heng Lian,12
+Henrik Sandberg,14
+Henry M. Walker,11
+Henry MacKay Walker,13
+Hermann A. Maurer,19
+Hervé Delingette,22
+Hideharu Amano,16
+Hideki Tode,16
+Hidetoshi Onodera,16
+Himanshu Tyagi,12
+Hiram Clawson,14
+Hiroaki Mukaidani,12
+Hirokazu Taki,17
+Hiroki Nakahara,11
+Hiroki Nomiya,10
+Hiroshi Fujita 0001,13
+Hiroshi Ito 0001,25
+Hiroshi Maeda,21
+Hiroshi Shigeno,15
+Hirosuke Yamamoto,17
+Hiroyoshi Miwa,12
+Hitoshi Kiya,16
+Hoeteck Wee,11
+Hoi-Jun Yoo,29
+Homei Miyashita,10
+Hong Shen 0001,16
+Hongfei Lin,11
+Hongji Yang,27
+Hongwei Liu,23
+Hossain Shahriar,14
+Hossam S. Hassanein,19
+Houqiang Li,11
+Hsiang-Cheh Huang,10
+Hsin-Hsi Chen,10
+Hsinchun Chen,17
+Hsing-Chung Chen,10
+Hua Wu 0001,10
+Hua Xu 0001,13
+Huadong Guo,13
+Huamin Qu,13
+Huazhong Ren,10
+Hui Gao 0001,11
+Hui Zhang 0005,10
+Huimin Chen,14
+Huiming Wang,10
+Huiru Zheng,10
+Humberto Rocha,10
+Hung T. Nguyen 0001,10
+Hwajeong Seo,10
+Hyunseung Choo,17
+Håkan Hjalmarsson,14
+Håkon Kvale Stensland,10
+Héctor Allende,17
+I-Hsiang Wang,11
+IJsbrand Wijnands,11
+Ian Horrocks,43
+Ian R. Petersen,24
+Iasson Karafyllis,20
+Ignacio E. Grossmann,18
+Ignacio Medina,11
+Ignaz Rutter,11
+Igor V. Kotenko,13
+Ilya V. Kolmanovsky,13
+Imed Boughzala,10
+Imed Hammouda,11
+In-Cheol Park,11
+Ina Schaefer,11
+Ioannis Ch. Paschalidis,14
+Ioannis K. Argyros,12
+Ioannis Lestas,13
+Irena Bojanova,10
+Irena Roterman,14
+Irith Pomeranz,30
+Isaac Woungang,10
+Isabel Praça,10
+Isabel de la Torre Díez,10
+Israel Koren,27
+Itai Dinur,13
+Itzhak Tamo,10
+Iulian Iordachita,10
+Ivan Blecic,13
+Ivan Chajda,12
+Ivan Dokmanic,10
+Ivan Merelli,12
+J. Alex Halderman,13
+J. Edward Colgate,13
+J. Fdez-Valdivia,10
+J. Stephen Downie,17
+Jaap Ham,12
+Jacob Benesty,23
+Jacob O. Wobbrock,18
+Jacquelien M. A. Scherpen,13
+Jadwiga Indulska,13
+Jaime A. Moreno,14
+Jaime Lloret 0001,10
+Jakub Lokoc,12
+Jamal Bentahar,10
+Jamal Daafouz,13
+James A. Kadin,21
+James J. Buckley,10
+James Lam,22
+Jan Lunze,15
+Jan Marco Leimeister,18
+Jan Mendling,26
+Jan Niehues,13
+Jan Nordström,15
+Janan T. Eppig,21
+Jano Moreira de Souza,19
+Jason Cong,26
+Jason M. O'Kane,17
+Jason R. Marden,13
+Jaume Bacardit,12
+Jaume Llibre,18
+Javad Mohammadpour,10
+Javier Alonso-Mora,10
+Javier Herrero,12
+Javier Murillo,12
+Javier Ruiz-del-Solar,17
+Jean Dezert,15
+Jean-Baptiste Mouret,12
+Jean-Claude Junqua,13
+Jeff Offutt,15
+Jeff S. Shamma,14
+Jeffrey Bardzell,13
+Jeffrey G. Andrews,17
+Jeffrey L. Popyack,10
+Jeffrey M. Voas,16
+Jeffrey P. Bigham,14
+Jehoshua Bruck,17
+Jelena Zdravkovic,11
+Jeng-Shyang Pan 0001,12
+Jenny Benois-Pineau,13
+Jens Lehmann 0001,13
+Jerry N. Luftman,10
+Jerry Swan,10
+Jerzy Martyna,11
+Jessica J. Fridrich,21
+Ji-Woong Lee,10
+Jiajun Bu,10
+Jiamin Liu,11
+Jian Guo 0001,14
+Jian Lan,10
+Jian Song,15
+Jianbin Qiu,12
+Jiancheng Shi 0001,11
+Jiang Liu 0001,22
+Jianhua Ge,10
+Jianhua Yao,13
+Jianhua Zhang 0001,14
+Jianming Yong,15
+Jiannong Cao 0001,16
+Jianping Wang 0001,15
+Jianwei Huang,35
+Jianwei Zhang 0001,16
+Jianzhong Li 0001,12
+Jiawei Han 0001,27
+Jie Liu,10
+Jie Tang 0001,12
+Jie Wu 0003,11
+Jie-Hong R. Jiang,10
+Jim Esch,12
+Jiman Hong,16
+Jimeng Sun,15
+Jiming Chen 0001,22
+Jin Chen 0001,10
+Jinde Cao,17
+Jindrich Duník,12
+Jing Dong 0003,10
+Jing Gao 0004,13
+Jing-Yao Liu,11
+Jingdong Chen,18
+Jingzhi Guo,14
+Jintao Wang,11
+Jiri Vojtesek,11
+Jiro Hirokawa,16
+Jirí Ajgl,11
+Joachim Hornegger,11
+Joanna Domanska,11
+Joaquín Dopazo,15
+Jocelyn Chanussot,16
+Joel E. Richardson,23
+Joel J. P. C. Rodrigues,44
+Johan Pieter de Villiers,10
+Johannes Leveling,11
+John Ashley Burgoyne,11
+John Carlo Bertot,18
+John Edwards,10
+John G. Webster,10
+John L. Casti,10
+John Lygeros,14
+John M. Cioffi,15
+John McLeod,16
+John T. Gorgone,10
+Jon M. Kleinberg,14
+Jonathan E. Fieldsend,10
+Jonathan I. Maletic,17
+Jonathan Katz,20
+Jonathan M. Garibaldi,18
+Jonathan T. Barron,10
+Jong-Wha Chong,11
+Jorge A. Ruiz-Vanoye,11
+Jorge Cortés,14
+Jorge Marx Gómez,15
+Josep Carmona,13
+Joseph B. Major,10
+Joseph J. LaViola Jr.,10
+José A. Pino,14
+José M. Bioucas-Dias,13
+José M. F. Moura,14
+José M. Merigó,11
+José Ramón Gil-García,34
+Jozo J. Dujmovic,12
+João Pedro Hespanha,11
+Ju H. Park 0001,18
+Juan Aparicio,10
+Juan I. Ramos 0001,15
+Juan M. Corchado,10
+Judith A. Blake,23
+Juha Lemmetyinen,15
+Juha Puustjärvi,11
+Julian Togelius,23
+Jun Bi,10
+Jun Li 0004,10
+Jun Li 0009,11
+Jun Mashima,10
+Jun Ota,12
+Jun Peng,12
+Jun Wei 0002,13
+Jun-ichi Takada,15
+Junichi Yamagishi,18
+Junjie Wu,10
+Junliang Chen,12
+Junmin Wang,13
+Junping Du,10
+Junsong Yuan,11
+Junya Sekikawa,15
+Justin Solomon 0001,11
+Justin Thaler,11
+Juyang Weng,15
+Jérémy Jean,10
+József Farkas,13
+Jörg Müller 0001,10
+Jörg Thomaschewski,10
+Jörg Tiedemann,10
+Jürgen Adamy,13
+Jürgen Bajorath,19
+K. J. Ray Liu,15
+Kai Xu 0004,12
+Kai Zheng 0002,12
+Kaiming He,12
+Kalyanmoy Deb,17
+Kam-Pui Chow,13
+Kang-Hyun Jo,13
+Kangbin Yim,10
+Kannan Ramchandran,17
+Kaoru Hirota,24
+Karine Nahon,10
+Karl Granström,11
+Karl Henrik Johansson,24
+Karl J. Friston,38
+Karol Rástocný,10
+Karthik Sridharan,13
+Kate R. Rosenbloom,14
+Katsumi Tanaka,16
+Kazimierz Choros,11
+Kazunari Misawa,10
+Kazuo Misue,10
+Kazuyoshi Wada,14
+Kazuyuki Aihara,18
+Kei Sakaguchi,15
+Keiichi Shirase,13
+Keith D. Paulsen,23
+Kenichi Okada,16
+Kenichi Tamura,10
+Kenji Kashima,14
+Kenneth G. Paterson,19
+Kensaku Mori,36
+Kentaro Nishimori,14
+Kevin Gimpel,11
+Kevin W. Li,10
+Kevin Zhang,12
+Khaled Ben Letaief,17
+Khalid A. Qaraqe,20
+Kinkar Chandra Das,11
+Kiyoharu Aizawa,26
+Kiyomichi Araki,15
+Klaus Dietmayer,22
+Klaus Rechert,10
+Klaus Schoeffmann,21
+Kofi A. A. Makinwa,29
+Koji Nakano,10
+Kong-Aik Lee,12
+Konstantin E. Samouylov,10
+Kostas S. Metaxiotis,10
+Kotaro Hirasawa,12
+Kouichi Sakurai,12
+Kouta Minamizawa,14
+Krishnendu Chakrabarty,20
+Krishnendu Chatterjee,38
+Kristinn R. Thórisson,10
+Krisztian Balog,12
+Krzysztof Janowicz,11
+Krzysztof Okarma,10
+Krzysztof Wnuk,11
+Kui Xu 0001,10
+Kumiko Kushiyama,11
+Kun Xu 0001,15
+Kun Zhou,17
+Kwang Suk Park,11
+Lajos Hanzo,21
+Lampros K. Michalis,10
+Lane A. Hemaspaandra,28
+Laura Giarré,11
+Laura Menini,12
+Laurence Tianruo Yang,12
+Lawrence Carin,15
+Leah Hoffmann,13
+Leandro J. Cymberknop,10
+Leandro dos Santos Coelho,11
+Lee-Sup Kim,17
+Lei Chen 0002,38
+Lei Shu 0001,10
+Lei Zhang,13
+Lei Zhang 0001,12
+Lei Zhang 0006,13
+Lei Zheng,10
+Leif Azzopardi,15
+Lena Maier-Hein,13
+Lennart E. Nacke,11
+Lennart Ljung,13
+Leo Gordon,10
+Leon O. Chua,18
+Leonard Barolli,57
+Leonard F. Klosinski,16
+Leonid M. Fridman,14
+Leslie Greengard,15
+Leslie Ying,15
+Leszek Szczecinski,13
+Li Shang,14
+Li Zhou 0001,10
+Li-Rong Dai 0001,11
+Li-Yi Wei,14
+Lianfeng Shen,10
+Liang Huang 0001,14
+Liang-Jie Zhang,13
+Liangpei Zhang,15
+Licheng Jiao,25
+Ligang Zhou,10
+Lihua Xie,10
+Lijing Tan,11
+Lijuan Wang,10
+Lin-Shan Lee,26
+Linda Dailey Paulson,12
+Ling Shi,12
+Lingfeng Wang,10
+Lingyang Song,34
+Linna Chai,12
+Linwei Wang,15
+Lionel C. Briand,15
+Liza Potts,12
+Lizhen Xu,10
+Loet Leydesdorff,58
+Loren C. Larson,12
+Lorenzo Cantoni,11
+Lorenzo Peretto,10
+Lorenzo Rosasco,10
+Louis Kauffman,13
+Louis Kruh,33
+Love Ekenberg,11
+Lubomir M. Hadjiiski,13
+Luca Benini,25
+Luca Citi,10
+Luca Faes,10
+Luca Zaccarian,14
+Lucas J. van Vliet,11
+Luciano Volcan Agostini,11
+Lucy Y. Pao,13
+Ludo Waltman,11
+Luis Alonso 0001,11
+Luis M. Camarinha-Matos,19
+Luis Miguel Bergasa,11
+Luiz Biondi Neto,10
+Lukas Wagner,12
+Lukasz Wisniewski,10
+Lukás Burget,14
+Lutz Bornmann,53
+Luxi Yang,10
+László T. Kóczy,21
+Léon J. M. Rothkrantz,14
+Maciej J. Soja,10
+Madeline Balaam,11
+Madjid Merabti,10
+Madjid Tavana,10
+Magali Ruffier,10
+Magdalena Balazinska,13
+Maged Elkashlan,10
+Magnus Egerstedt,14
+Makoto Ando,15
+Makoto Ikeda,39
+Makoto Takamiya,13
+Makoto Takizawa 0001,33
+Maks Ovsjanikov,13
+Man Lung Yiu,13
+Manfred Glesner,19
+Manfred Morari,14
+Manfred Tscheligi,12
+Manuel Graña,12
+Manuela Bonano,11
+Marc Modat,12
+Marcel Worring,10
+Marcelo J. Weinberger,10
+Marco Brogioni,15
+Marco D. Santambrogio,16
+Marco Di Renzo,12
+Marco Martorella,10
+Marco Schumann,10
+Marco de Gemmis,10
+Marcus Baum,12
+Marcus Foth,14
+Marcus Specht,13
+Marek Sawerwain,12
+Margaret J. Wright,10
+Maria Chiara Caschera,10
+Maria Chudnovsky,14
+Maria Elena Valcher,13
+Maria Pia Fanti,14
+Maria do Carmo Lopes,10
+Maria-Florina Balcan,10
+Mariana Raykova 0001,10
+Marie-Francine Moens,10
+Marijn Janssen,33
+Mario Bravetti,10
+Mario Cannataro,10
+Mario Sassano,11
+Mario di Bernardo,13
+Maristella Agosti,13
+Mark A. Helvie,13
+Mark Adkins,13
+Mark Butlin,10
+Mark D. Fairchild,21
+Mark D. Smucker,14
+Mark Doernhoefer,19
+Mark Thorson,26
+Markku J. Juntti,14
+Markus Schedl,15
+Marlon Dumas,17
+Martha A. Larson,12
+Martijn C. Willemsen,12
+Martin Gilje Jaatun,12
+Martin J. Chlond,11
+Martin Pielot,11
+Martin R. Albrecht,13
+Martin R. Woodward,17
+Martin Reuter 0001,10
+Martin Smits,10
+Martin Thomson,13
+Marylyn D. Ritchie,12
+Masashi Sugiyama,15
+Masataka Goto,18
+Masato Tsuru,13
+Masayuki Inaba,16
+Masayuki Murata,15
+Massimiliano Di Penta,20
+Massimo Vanzi,18
+Mathias Dunkel,11
+Mati Karelson,13
+Matteo Sonza Reorda,21
+Matthew M. Peet,14
+Matthew T. Freedman,12
+Matthias F. Carlsohn,15
+Matthias Fuchs,14
+Matthias Huck,10
+Matthias Mauch,10
+Mattias P. Heinrich,10
+Maurits Ortmanns,19
+Mauro Barni,21
+Mauro Ciappa,18
+Mauro Dalla Mura,11
+Mauro Mariotti d'Alessandro,10
+Max Q.-H. Meng,16
+Maxim Buzdalov,10
+Mayank Bakshi,13
+Meghyn Bienvenu,14
+Mehdi Bennis,20
+Mehdi Dehghan 0002,15
+Mehdi M. Mirbagheri,10
+Mehdi Tibouchi,12
+Mehran Mesbahi,27
+Mehrez Zribi,10
+Mehul Motani,17
+Mei-Ling Shyu,11
+Meinard Müller,17
+Meng Wang 0001,22
+MengChu Zhou,25
+Mengdao Xing,14
+Mengjie Zhang,43
+Miao Pan,10
+Michael A. Demetriou,14
+Michael Affenzeller,16
+Michael Bieber,12
+Michael D. Ekstrand,11
+Michael G. Pecht,10
+Michael Gastpar,17
+Michael Gurstein,13
+Michael J. Marcus,15
+Michael Kuhn 0004,11
+Michael Langberg,17
+Michael M. Bronstein,20
+Michael Malisoff,13
+Michael N. Vrahatis,10
+Michael P. Flynn,13
+Michael Priestley,11
+Michael S. Brown,17
+Michael W. Mahoney,10
+Michail Matthaiou,12
+Michal Armoni,10
+Michal Choras,10
+Michal Mackowski,10
+Michal Pilipczuk,11
+Michele A. Wigger,12
+Michele Malgeri,13
+Michelle Effros,17
+Miguel Rocha,10
+Mihaela van der Schaar,13
+Mihai Dascalu,11
+Mihir Bellare,25
+Mikael Johansson 0001,13
+Mikael Skoglund,11
+Mikhail J. Shashkov,14
+Mikko Valkama,12
+Miklós Telek,14
+Min Chen 0003,10
+Min Zhang 0005,17
+Min-Yuh Day,16
+Minda Le,12
+Ming Cao 0001,14
+Ming Zhou 0001,15
+Ming-Hsuan Yang 0001,10
+Minoru Uehara,10
+Minyi Huang,14
+Mirella M. Moro,10
+Miriam Pablos,10
+Mirjam Ernestus,14
+Miroslav Goljan,10
+Miroslav Krstic,27
+Mohamad Sawan,13
+Mohamed Jemni,15
+Mohamed-Slim Alouini,73
+Mohammad Shahidehpour,10
+Mohammad Zulkernine,15
+Mohammed Nafie,21
+Mohand Boughanem,16
+Monika Henzinger,11
+Monique Janneck,10
+Moon Ho Lee,10
+Moshe Schwartz 0001,17
+Motoki Miura,14
+Mubbasir Kapadia,13
+Muhammad Ali Imran,12
+Muhammad Shafique 0001,13
+Munmun De Choudhury,10
+Munther A. Dahleh,14
+Muriel Médard,32
+Murray Turoff,10
+Mykhaylo Andriluka,11
+Mária Bieliková,14
+Mérouane Debbah,14
+N. K. Bose,21
+N. Ranganathan,15
+Nageswara S. V. Rao,15
+Naixue Xiong,11
+Naoto Yokoya,10
+Nasser Kehtarnavaz,15
+Nassir Navab,13
+Nathalie Henry Riche,11
+Nathan Johnson,10
+Nathan R. Sturtevant,10
+Nathan Srebro,10
+Navin Kashyap,17
+Neal Leavitt,15
+Necmiye Ozay,13
+Neil Savage,11
+Neil T. Heffernan,13
+Neri Merhav,32
+Ness B. Shroff,20
+Ngoc Thanh Nguyen,43
+Nicholas Ayache,22
+Nicholas Petrick,13
+Nicholas Zabaras,15
+Nick Rushby,23
+Nico Karssemeijer,13
+Nicola Casagli,10
+Nicola Delmonte,15
+Nicolai Marquardt,10
+Nicolas Ducheneaut,10
+Nicolas Thome,10
+Niels Henze,13
+Niels Ole Bernsen,13
+Nigel H. Lovell,10
+Nigel P. Smart,20
+Niloy J. Mitra,15
+Nils Boysen,15
+Nils Urbach,11
+Nima Khakzad,10
+Ning Lu 0002,10
+Nir Bitansky,11
+Nitish V. Thakor,10
+Noboru Endou,12
+Noboru Niki,13
+Nobuyuki Fujisawa,10
+Noel E. O'Connor,13
+Noriki Uchida,12
+Norm Medeiros,14
+O. P. Lossers,10
+Ocotlán Díaz-Parra,11
+Octavia A. Dobre,11
+Ofir Weber,13
+Ohad Shamir,25
+Olav Egeland,10
+Oleg B. Makarevich,11
+Oliver Kopp,12
+Olivera Marjanovic,14
+Olivier Chapuis,14
+Olivier Stasse,12
+Olivier Terzo,11
+Omri Weinstein,10
+Ondrej Bojar,13
+Ondrej Krejcar,11
+Ondrej Straka,12
+Onur Altintas,10
+Onur Mutlu,33
+Oscar C. Au,40
+Oscar Pastor,13
+Osvaldo Gervasi,17
+Osvaldo Simeone,43
+Ovidiu Daescu,10
+Pablo Aqueveque,10
+Pablo Piantanida,13
+Panagiotis Papapetrou,10
+Panayiotis A. Kyriacou,10
+Pantelis Georgiou,14
+Paolo Attilio Pegoraro,10
+Paolo Bocciarelli,10
+Paolo Cova,17
+Paolo Rosso,16
+Parikshit Gopalan,14
+Parimal Pal Chaudhuri,12
+Pascal Bouvry,18
+Pascal Frossard,10
+Pascal Hitzler,11
+Pascal O. Vontobel,17
+Patrick Bosc,12
+Patrick Gallinari,16
+Patrick Longa,13
+Patrizia Grifoni,11
+Patrizio Angelini,12
+Pau Prats,16
+Paul D. Clough,13
+Paul F. Lister,12
+Paul Flicek,14
+Paul Frenger,13
+Paul Gray,17
+Paul Grünbacher,10
+Paul H. Siegel,17
+Paul Huntington,11
+Paul M. J. Van den Hof,14
+Paulo E. Miyagi,10
+Paulo Jorge Ramalho Oliveira,10
+Paulo Montezuma,11
+Paulo Novais,11
+Paulo Romero Martins Maciel,17
+Paulo S. L. M. Barreto,19
+Paulo Tabuada,14
+Pavan Kumar Hanumolu,14
+Pavel Rychlý,14
+Pavel Shvaiko,15
+Pavel Smerk,10
+Pawel Pawlewski,10
+Peng Wang,13
+Pengbo Wang,10
+Pengcheng Shi,12
+Pengwei Hao,12
+Peter B. Henderson,15
+Peter B. Luh,14
+Peter Bollen,14
+Peter Brusilovsky,11
+Peter E. Caines,14
+Peter Hastreiter,10
+Peter J. Smith 0001,19
+Peter Johnson,11
+Peter Loos,12
+Peter Pagel,12
+Peter Scholl,10
+Peter Schwabe,14
+Peter Spyns,11
+Peter Stone,23
+Peter Willett 0001,14
+Petr A. Golovach,10
+Petr N. Vabishchevich,11
+Petra ten Hoopen,10
+Pew-Thian Yap,12
+Peyman Mohajerin Esfahani,10
+Philip Hills,12
+Philip S. Yu,38
+Philipp Koehn,14
+Philippe Perdu,17
+Phillip G. Armour,17
+Pier Paolo Civalleri,11
+Pierdomenico Pepe,14
+Pierre Bonnet,10
+Pierre Laforcade,11
+Pierre-Emmanuel Gaillardon,11
+Piet M. T. Broersen,13
+Pieter Abbeel,10
+Pieter M. A. Ribbers,12
+Pietro Pala,14
+Pietro S. Oliveto,13
+Pin-Han Ho,12
+Piotr Jedrzejowicz,11
+Prabal Dutta,13
+Pradeep Ravikumar,15
+Pramod K. Varshney,10
+Prateek Jain 0002,12
+Preben Kidmose,10
+Pui-In Mak,10
+Pulkit Grover,14
+Pushpak Bhattacharyya,11
+Pål Halvorsen,11
+Qi Tian 0001,36
+Qi Zhang 0001,11
+Qian Du,10
+Qian Wang 0001,12
+Qiang Yang 0001,10
+Qiankun Song,13
+Qingming Huang,16
+Quan Z. Sheng,10
+Quanyan Zhu,11
+Rachel A. Harte,11
+Radu Nicolescu,10
+Rafael Peñaloza,15
+Rafael Prikladnicki,11
+Rafael Pérez y Pérez,10
+Rafal Kozik,10
+Rafeef Abugharbieh,11
+Raimon Jané,10
+Rainer Schmidt 0001,10
+Raja S. Kushalnagar,10
+Rajeev Thakur,11
+Ramesh Raskar,15
+Ramji Venkataramanan,14
+Ramón González-Camarena,10
+Randall A. Berry,16
+Rao Mikkilineni,11
+Raouf Boutaba,10
+Raquel Urtasun,10
+Ratnasingham Tharmarasa,10
+Ravi Ramamoorthi,19
+Ravi Tandon,12
+Ray J. Paul,12
+Reda A. Ammar,21
+Reinhard Heckel,10
+Reinhard Pichler,11
+René Thiemann,11
+Ricardo Baeza-Yates,10
+Ricardo G. Sanfelice,14
+Ricardo J. Rabelo,18
+Ricardo L. Armentano,10
+Riccardo Barbieri,10
+Riccardo Poli,14
+Riccardo Rovatti,21
+Richang Hong,11
+Richard Bagby,10
+Richard Bamler,16
+Richard E. Ladner,15
+Richard F. E. Sutcliffe,11
+Richard F. Paige,15
+Ricky E. Sward,12
+Rik Farrow,21
+Riko Oki,15
+Rob Kolstad,11
+Robert B. France,14
+Robert B. Ross,11
+Robert Bogue,13
+Robert E. Kearney,10
+Robert Feldt,13
+Robert Fox,15
+Robert G. Ferrell,15
+Robert Hirschfeld,10
+Robert J. Webster,11
+Robert M. Goldberg,10
+Robert O. Briggs,27
+Robert R. Hoffman,18
+Robert Schober,40
+Robert Shorten,18
+Robert Vaughan 0001,11
+Robert W. Heath Jr.,15
+Robert Wille,36
+Roberto Ferrero,10
+Roberto Hornero,10
+Roberto Tempo,12
+Roberto Tinarelli,10
+Robin Chapman,10
+Robyn Smyth,12
+Rocky Ross,14
+Rodrigo Sandoval-Almazán,13
+Roland Siegwart,20
+Roland Wismüller,10
+Rolf Johannesson,11
+Roman Barták,16
+Roman Senkerik,11
+Ron M. Roth,17
+Ronald M. Summers,26
+Ronald Rousseau 0001,14
+Rory V. O'Connor,10
+Rubaiat Habib Kazi,10
+Ruben Verborgh,20
+Rudolf Wille,15
+Ruhul A. Sarker,15
+Rui Dinis,11
+Rui Paulo Martins,21
+Rui Zhang 0006,39
+Ruslan Salakhutdinov,10
+Russell H. Taylor,23
+Ryan Gabrys,10
+Ryen W. White,17
+Ryoichi Sato,13
+Rüdiger L. Urbanke,16
+Sachin S. Kajarekar,11
+Sai-Ho Ling,10
+Saket Saurabh 0001,10
+Salvador Eugenio C. Caoili,10
+Salvador García,13
+Sam T. Roweis,11
+Sameer K. Antani,10
+Samuel Greengard,13
+Samuel Kounev,10
+Samuel Madden,13
+Samuel Thomas 0001,13
+Sanjay Misra,13
+Sanjaya Mishra,10
+Sarah Beecham,10
+Sarah Diefenbach,14
+Sarah K. Spurgeon,11
+Sarthak Misra,10
+Satoshi Fujita,17
+Satoshi Goto,10
+Saïd Amghibech,10
+Scott Hensley,13
+Sean Warnick,11
+Sebastian Möller 0001,10
+Sebastian Pokutta,10
+Sebastiano B. Serpico,16
+Seiji Tsuchiya,11
+Senem Velipasalar,12
+Seref Sagiroglu,12
+Sergei A. Abramov,21
+Sergey A. Solovyov,12
+Sergio Bampi,18
+Sergio Firmenich,11
+Sergio M. Savaresi,13
+Sergio Verdú,15
+Sertac Karaman,23
+Seth Blumsack,13
+Seyed Mahmoud Sheikholeslami,10
+Shachar Lovett,14
+Shanbao Tong,10
+Shane Dawson,10
+Shankar Sastry,17
+Shaocheng Tong,11
+Shaojie Shen,10
+Shaojie Tang,11
+Shaun W. Lawson,12
+Shen-Iuan Liu,17
+Shi Jin 0002,22
+Shih-Chung Benedict Lo,10
+Shingo Yamaguchi,15
+Shinji Hara,10
+Shipeng Li,10
+Shiri Azenkot,10
+Shirin Saeedi Bidokhti,10
+Shitong Wang 0001,13
+Shixia Liu,11
+Shlomo Shamai,60
+Shoji Hirano,10
+Shouming Zhong,27
+Shouyang Wang,15
+Shu Zhao,11
+Shubhangi Saraf,12
+Shugen Ma,16
+Shuicheng Yan,30
+Shumin Fei,11
+Shunsuke Inenaga,10
+Shusaku Tsumoto,20
+Shwetak N. Patel,16
+Siddhartha Chaudhuri,11
+Sidharth Jaggi,17
+Sifeng Liu,10
+Silvia Giordano,11
+Simon B. Eickhoff,14
+Simon Buckingham Shum,10
+Simon Colton,10
+Simon K. Warfield,23
+Simon M. Lucas,15
+Simon Miles,11
+Simon Parsons,21
+Simon T. Perrault,10
+Simona Salicone,18
+Simone Bacellar Leal Ferreira,10
+Simone Formentin,10
+Simone Pettinato,16
+Skip Rizzo,13
+Socrates Dokos,10
+Solace Shen,10
+Song-Chun Zhu,10
+Sonia Martínez,14
+Soon Ae Chun,19
+Sophie Tarbouriech,14
+Soumaya Cherkaoui,10
+Spyros A. Reveliotis,10
+Srdjan Capkun,12
+Sri Harish Reddy Mallidi,10
+Sridhar Krishnan 0001,10
+Sridhar P. Arjunan,10
+Sriram Ganapathy,12
+Sriram Vishwanath,15
+Stefan Schlobach,11
+Stefanie Rinderle-Ma,12
+Stefano Berretti,10
+Stefano Bistarelli,11
+Stefano Rini,10
+Stefano Tebaldini,26
+Stelian Coros,13
+Stephan M. Winkler,13
+Stephen Fitzgerald,10
+Stephen G. Kobourov,11
+Stephen J. Trevanion,15
+Stephen K. Park,10
+Stephen M. J. Searle,14
+Stephen M. Smith,19
+Stephen Tomlinson,13
+Steve Mansfield-Devine,10
+Steve Marschner,13
+Steve Saxby,10
+Steve Vinoski,11
+Steve Walker,11
+Steven M. Bellovin,16
+Steven W. Su,10
+Stewart Bryant,15
+Stuart R. Phinn,10
+Sudhakar M. Reddy,21
+Suhas N. Diggavi,17
+Sujeet Shenoi,11
+Sundaram Suresh,10
+Sung Ik Park,13
+Susan R. Fussell,18
+Susumu Yoshida,12
+Suzette McLeod,16
+Svetlana Simic,12
+Swagatam Das,12
+Syed Ali Jafar,16
+Sylvain Malacria,13
+Symeon Chatzinotas,10
+Sören Auer,14
+T. A. Marsland,10
+T. D. Wilson 0001,23
+T. H. Tse,10
+Tadeusz Kaczorek,23
+Taesung Park,10
+Taghi M. Khoshgoftaar,46
+Taieb Znati,17
+Takafumi Aoki,28
+Takahiko Horiuchi,10
+Takahiro Hanyu,30
+Takayuki Ishizaki,10
+Takayuki Itoh,12
+Takayuki Kitasaka,30
+Takeo Igarashi,18
+Takeshi Hara,13
+Takeshi Ikenaga,15
+Takuji Narumi,13
+Tamara Mchedlidze,12
+Tamas Ungi,10
+Tamer Basar,26
+Tamim Asfour,15
+Tamio Arai,19
+Tanja Lange 0001,18
+Tansel Yucelen,12
+Tao Ban,14
+Tao Jiang 0002,11
+Tao Jing,10
+Tao Xie 0001,13
+Tao Zhang,10
+Tara Javidi,15
+Tat-Jun Chin,13
+Tatsuo Higuchi 0001,19
+Terry M. Peters,22
+Teruhisa Hochin,10
+Tetsuo Kamina,11
+Tetsuro Ogi,11
+Theodore W. Berger,10
+Theresa A. Pardo,14
+Thierry Pun,10
+Tho Le-Ngoc,32
+Thomas A. Courtade,10
+Thomas E. Nichols,18
+Thomas Helmuth,10
+Thomas J. Dionise,10
+Thomas J. Overbye,24
+Thomas L. Griffiths,15
+Thomas Martin Deserno,10
+Thomas Parisini,14
+Thomas Petri,11
+Thomas Peyrin,13
+Thomas Stieglitz,10
+Thorsten Wuest,10
+Tiago Pinto,10
+Tibor Jager,13
+Tiffany Barnes,13
+Til Aach,14
+Tim O'Neill,10
+Tim Weitzel,13
+Timo Kötzing,10
+Tingting He,12
+Tobias Friedrich 0001,12
+Tobias Hoßfeld,10
+Tobias Ritschel 0001,12
+Toby P. Breckon,10
+Tom Oomen,12
+Tom Vercauteren,14
+Tomas Akenine-Möller,15
+Tomoaki Ohtsuki,13
+Tomohisa Hayakawa,14
+Tomoki Toda,20
+Tomoki Yoshihisa,10
+Tomomichi Hagiwara,14
+Tomoya Enokido,61
+Tomoyuki Ishida,12
+Tong Zhang 0001,21
+Tony Belpaeme,11
+Tony Owen,10
+Toshiharu Sugie,13
+Touradj Ebrahimi,10
+Tova Milo,13
+Tovi Grossman,19
+Toyohide Watanabe,10
+Trevor J. M. Bench-Capon,15
+Tryphon T. Georgiou,14
+Tsachy Weissman,49
+Tsuhan Chen,14
+Tsutomu Terada,10
+Tsuyoshi Funaki,16
+Tsuyoshi Sekitani,10
+Tun Lu,13
+Tuo Zhang,11
+Tyler Moore 0001,12
+Tzung-Pei Hong,10
+Tzyy-Ping Jung,10
+Udaya Parampalli,10
+Ufuk Topcu,27
+Ulrike Gretzel,18
+Uwe Aickelin,10
+Uwe D. Hanebeck,15
+Vadim Bulitko,13
+Vadim Zalunin,10
+Valentina Cosentino,10
+Valentina Dragos,10
+Valeria Bertacco,15
+Valery A. Ugrinovskii,11
+Vassilis Athitsos,13
+Venkatesan Guruswami,23
+Venkatram Vishwanath,10
+Verónica González-Gambau,14
+Vesselin P. Jilkov,14
+Victor C. M. Leung,16
+Vidhyacharan Bhaskar,10
+Viera Stopjaková,15
+Vijay K. Gurbani,13
+Vikas Singh,12
+Vincent Hayward,14
+Vincent Y. F. Tan,23
+Vincenza Carchiolo,13
+Virgilijus Sakalauskas,11
+Vishal M. Patel,12
+Vitoantonio Bevilacqua,14
+Viveck R. Cadambe,13
+Vladik Kreinovich,27
+Vladimir G. Kim,11
+Vladimir Zwass,62
+Vladislav Ryzhikov,14
+Vlasta Bari,10
+Volodymyr I. Ponomaryov,11
+Vyas Sekar,12
+Wael M. Badawy,12
+Waldo Kleynhans,11
+Walid Gaaloul,10
+Walid Saad,10
+Walter Ukovich,10
+Warren E. Dixon,14
+Warren P. Seering,10
+Wassim M. Haddad,14
+Wayne D. Gray,12
+Wayne Luk,51
+Wei Chen,12
+Wei Chen 0002,16
+Wei Hwang,15
+Wei Wang,14
+Wei Xing Zheng 0001,14
+Wei Yang 0004,10
+Wei Zhang,26
+Wei Zhang 0001,29
+Wei Zhang 0013,12
+Weidong Cai 0001,10
+Weili Lin,12
+Weiwei Yang,10
+Wen Chen 0001,10
+Wen Gao 0001,57
+Wen Hong,15
+Wen Wang,10
+Wenji Mao,12
+Wenjie Zhang 0001,13
+Wentong Cai 0001,24
+William E. Higgins,15
+William Eberle,12
+William M. Wells III,23
+William Odom,13
+Wing-Hung Ki,11
+Witold A. Pleskacz,14
+Witold Kinsner,18
+Witold Pedrycz,26
+Wojciech Matusik,18
+Wojtek J. Bock,11
+Wolfgang Wagner 0001,12
+Wolfram Burgard,23
+Wu-Shiung Feng,10
+X. Rong Li,15
+Xavier Pennec,21
+Xi Chen,14
+Xiangrong Zhang,10
+Xiangyang Zhu,12
+Xiangyun Zhou 0001,22
+Xiao Hu 0001,15
+Xiao Ma 0001,11
+Xiaodong Lin,24
+Xiaodong Wang 0001,11
+Xiaohong Jiang,11
+Xiaohu You,10
+Xiaojun Bi,12
+Xiaolan Xie,15
+Xiaoou Tang,17
+Xiaoping Li 0001,14
+Xiaowei Li 0001,12
+Xiaoyao Fan,12
+Xiaoying Gan,10
+Xiaoyun Wang 0001,17
+Xin Li 0001,14
+Xin Li 0006,11
+Xinbo Gao,13
+Xingzhao Liu,16
+Xinjian Chen,12
+Xiuzhen Cheng,11
+Xosé M. Fernández-Suárez,16
+Xuanjing Huang,12
+Xuemin Lin 0001,14
+Xuemin Shen,16
+Xueqi Cheng,14
+Xunying Liu,12
+Ya Jun Yu,16
+Yaakov Bar-Shalom,15
+Yan Huo,10
+Yan Timanovsky,10
+Yang Liu,13
+Yang Liu 0014,15
+Yang Song 0001,10
+Yanmin Zhu,14
+Yann LeCun,10
+Yanping Zhang,11
+Yao-Hsin Chou,10
+Yasuaki Ito,10
+Yasuhiko Nakashima,10
+Yasuhisa Hirata,20
+Yasunari Shidama,12
+Yasunori Endo,14
+Yasuo Ebara,10
+Yeow Meng Chee,11
+Yevgeniy Dodis,19
+Yi Yang 0001,21
+Yi-Shao Lai,11
+Ying Hu,12
+Ying Li,14
+Yingmin Jia,11
+Yingxu Wang,18
+Yisok Oh,13
+Yiyu Yao,15
+Yoichi Ochiai,10
+Yong Li 0008,21
+Yong Liang Guan 0001,14
+Yong Shi,13
+Yong Xu 0001,11
+Yongdong Zhang,11
+Yonggang Shi,13
+Yonghao Zhang,11
+Yonghui Li 0001,11
+Yongming Huang,10
+Yongqun He,10
+Yongtae Park,10
+Yonina C. Eldar,45
+Yookun Cho,12
+Yoshiki Kawata,13
+Yoshio Ebihara,12
+Yoshitaka Sakurai,12
+Yoshitaka Shibata,43
+Yoshua Bengio,21
+Yossef Steinberg,17
+Youfu Li,12
+Youn-Kyung Lim,17
+Youyun Xu,10
+Yu Wang 0002,24
+Yu-Guang Yang 0001,10
+Yuan Chen 0007,10
+Yuan Xie 0001,11
+Yuan Yuan 0001,13
+Yuanshun Dai,10
+Yue Dong,12
+Yue-Yun Wang,11
+Yueh-Min Huang,14
+Yuehua Bu,12
+Yueming Cai,10
+Yuichi Kodama,10
+Yuji Iwahori,16
+Yuji Oie,10
+Yuji Yoshida,17
+Yujong Hwang,10
+Yukiko I. Nakano,10
+Yukitoshi Sanada,15
+Yuliya Tarabalka,12
+Yunfei Chen,15
+Yunhong Wang,18
+Yunkai Deng,11
+Yuping Wang,15
+Yuri B. Shtessel,12
+Yury Polyanskiy,13
+Yusheng Ji,46
+Yusuke Gotoh,10
+Yutaka Yamamoto,13
+Yuval Cassuto,11
+Yuvraj Agarwal,10
+Zachary A. Pardos,13
+Ze Yu,10
+Zeshui Xu,17
+Zhangdui Zhong,22
+Zhangming Zhu,10
+Zhansheng Duan,13
+Zhaocheng Wang 0001,11
+Zheng Chen 0001,10
+Zheng You,11
+Zhengrong Liang,11
+Zhihao Yang,11
+Zhiwen Yu 0001,14
+Zhiyuan Fang,10
+Zhong-Ping Jiang,14
+Zhu Han,34
+Zibin Zheng,22
+Zita A. Vale,10
+Zixiang Xiong,10
+Zuyi Li,10
+Zuzana Neverilová,11
+Zvika Brakerski,12
+kc claffy,12
+Óscar Reinoso,17
+Øystein Haugen,12

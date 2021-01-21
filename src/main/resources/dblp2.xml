@@ -1,0 +1,19 @@
+<article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Werner Haas 0004</author>
+        <title>Spectre Attacks: Exploiting Speculative Execution.</title>
+        <journal>meltdownattack.com</journal>
+        <year>2018</year>
+        <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+</article>
+
+<article mdate="2019-10-25" key="tr/gte/TR-0231-08-93-165" publtype="informal">
+    <author>Paul Kocher</author>
+    <title>A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.</title>
+    <journal>meltdownattack.com</journal>
+    <volume>TR-0231-08-93-165</volume>
+    <month>August</month>
+    <year>1993</year>
+    <url>db/journals/gtelab/index.html#TR-0231-08-93-165</url>
+</article>

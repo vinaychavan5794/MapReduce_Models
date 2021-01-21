@@ -1,0 +1,9 @@
+<article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+    <author>Paul Kocher</author>
+    <author>Daniel Genkin</author>
+    <author>Werner Haas 0004</author>
+    <title>Spectre Attacks: Exploiting Speculative Execution.</title>
+    <journal>meltdownattack.com</journal>
+    <year>2018</year>
+    <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+</article>

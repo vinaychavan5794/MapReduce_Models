@@ -1,0 +1,100 @@
+T. D. Wilson 0001,348
+Ronald R. Yager,346
+Robert L. Glass,262
+Diane Crawford,250
+Peter G. Neumann,240
+David Alan Grier,219
+Elena Maceviciute,218
+Harold Joseph Highland,214
+Karl Rihaczek,195
+Louis Kruh,194
+Alex M. Andrew,191
+Bill Hancock,188
+Vladimir Zwass,187
+George V. Neville-Neil,179
+Irith Pomeranz,179
+Vinton G. Cerf,178
+David Eppstein,177
+Abdul-Majid Wazwaz,176
+Rik Farrow,173
+Tony Owen,170
+Edmond Bianco,169
+Vladik Kreinovich,169
+David B. Lomet,161
+Kimon P. Valavanis,161
+Moshe Y. Vardi,160
+Vishwani D. Agrawal,158
+Peter J. Denning,154
+Stephen Saxby,153
+Gilbert Held,151
+Neri Merhav,151
+A. Martin Wildberger,150
+Greg Goth,142
+Manfred Broy,142
+Oded Goldreich 0001,141
+Friedrich L. Bauer,140
+Ichiro Satoh,139
+William I. Gasarch,137
+David Bawden,134
+Helmut Reimer,133
+Giuseppe Riva,131
+Bertrand Meyer 0001,128
+Daniel E. O'Leary,126
+Lotfi A. Zadeh,126
+Richard H. Stern,126
+Dirk Fox,125
+Jinho Choi 0001,125
+Leo Egghe,124
+Joseph O'Rourke,123
+Ryotaro Kamimura,123
+Hermann A. Maurer,120
+Witold Pedrycz,120
+Linda Dailey Paulson,119
+Mike Thelwall,119
+Robert Fox,118
+Yingxu Wang,118
+Diomidis Spinellis,117
+Gary Singh,116
+Joseph Y. Halpern,116
+Hal Berghel,115
+Ben Shneiderman,113
+Harry M. Sneed,112
+Maurice Margenstern,111
+Wil M. P. van der Aalst,110
+Newton Lee,107
+Bruno Courcelle,106
+Carsten Thomassen,106
+Gerard Salton,106
+Johann Bizer,106
+Jon Postel,105
+Loet Leydesdorff,103
+W. Neville Holmes,103
+Donald E. Knuth,102
+Michael F. Gorman,102
+Scott Davidson,102
+Arto Salomaa,101
+Gunter Dueck,101
+Toshihiko Yamakami,101
+Juha Honkala,100
+Timothy M. Chan,100
+Tom Stewart,99
+Brenda K. Wiederhold,98
+Gheorghe Paun,98
+Andrea Gaggioli,97
+Nadia Magnenat-Thalmann,97
+Judea Pearl,96
+Jitendra K. Tugnait,95
+Peter Damaschke,95
+Shane Greenstein,95
+Iain D. Craig,94
+Leslie Lamport,94
+Mark Doernhoefer,94
+Saharon Shelah,93
+Won Kim 0001,93
+Azriel Rosenfeld,92
+Norihiro Kamide,92
+Stevo Stevic,92
+Alois Potton,91
+Charles Oppenheim,91
+Gary McGraw,91
+Ramesh C. Jain,91
